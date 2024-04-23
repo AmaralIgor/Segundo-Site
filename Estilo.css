@@ -18,7 +18,7 @@ body {
     text-decoration: none;
     font-size: 35px;
     font-family: "Lugrasimo", cursive;
-    font-weight: 600;
+    font-weight: 900;
     color: rgb(35, 183, 232);
     background-color: aliceblue;
     padding: 10px 30px;
@@ -27,11 +27,11 @@ body {
 
 h1 {
     text-transform: uppercase;
-    font-size: 60px;
+    font-size: 70px;
     color: rgb(255, 255, 255);
     font-family: "Lugrasimo", cursive;
-    font-weight: 500;
-    text-align: left;
+    font-weight: 700;
+    text-align: center;
 }
 
 .informacoes p {
@@ -40,7 +40,7 @@ h1 {
     text-transform: uppercase;
     font-family: "Lugrasimo", cursive;
     font-weight: 500;
-    text-align: left;
+    text-align: center;
 }
 
 #inputNome {
